@@ -1,0 +1,13 @@
+/* This page is hard to read. Fix it. */
+body { background: #eeeeee; font-family: Times; }
+.page { padding: 0; }
+h1 { font-size: 14px; color: #bbbbbb; }
+.intro { color: #cccccc; font-size: 11px; line-height: 1; letter-spacing: 0; }
+.cards div { background: #dddddd; margin: 0; padding: 0; }
+.card h2 { font-size: 12px; color: #c0c0c0; }
+.button { background: #dddddd; color: #cccccc; }
+/* TODO 1: use a grid for .cards with three equal columns and a gap.
+   TODO 2: give the cards padding and give the page space around it.
+   TODO 3: use a clear font, a bigger body size and a line-height of about 1.5.
+   TODO 4: make the text dark enough: contrast ratio at least 4.5 to 1.
+   TODO 5: give .button a hover colour and a visible focus outline. */

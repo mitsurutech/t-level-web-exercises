@@ -1,0 +1,5 @@
+body { font-family: sans-serif; max-width: 30rem; margin: 1rem auto; }
+label { display: block; }
+input, select { padding: 0.3rem; font-size: 1rem; }
+button { padding: 0.4rem 1rem; font-size: 1rem; }
+#message { font-weight: bold; }
